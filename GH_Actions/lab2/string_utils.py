@@ -1,6 +1,7 @@
-"""
-Simple string utility functions for text manipulation.
-"""
+
+"""Simple string utility functions (Lab 2)."""
+
+
 
 def reverse_string(text):
     """Reverse a string."""
